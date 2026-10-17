@@ -1,5 +1,5 @@
 # Iris Flower Classification Using Machine Learning 🌸
-
+![Iris_Flower](https://github.com/ayeshanikhat12/Iris-Flower-Classification_Using_ML/blob/c8c8c8cc0fc3d73151e9853d648e00f12a01bfa5/Iris%20Flower%20Species%20.png)
 
 ## Project Overview
 
